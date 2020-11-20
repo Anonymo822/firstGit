@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\delph\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\delph\\.nuget\\packages"
+    ]
+  }
+}
